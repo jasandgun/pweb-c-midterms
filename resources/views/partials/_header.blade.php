@@ -34,8 +34,8 @@
                                         <li><a href="/dashboard">Dashboard</a></li>
                                         @else
                                         
-                                            <li class="header-login"><a href="/login-welcome">Register</a></li>
-                                            <li class="header-login"><a href="/login-welcome">Login</a></li>
+                                            <li class="header-login"><a href="/register">Register</a></li>
+                                            <li class="header-login"><a href="/login">Login</a></li>
                                         
                                         @endif
                                     </ul>
