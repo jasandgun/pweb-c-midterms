@@ -1,2 +1,5 @@
-node_modules
-public/data_user/
+/public/data_user/
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
